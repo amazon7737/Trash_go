@@ -1,4 +1,4 @@
 # trash_go_android
 
-<img src = "https://user-images.githubusercontent.com/76634341/245060138-0977ce77-9fee-4e76-91da-22e4704c0f92.mov">
+<img src = "https://user-images.githubusercontent.com/76634341/245062296-6a22218a-130f-4143-88a9-c8152855d207.gif">
 
