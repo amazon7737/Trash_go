@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home">
+
+    <View
+        android:id="@+id/image_2"
+        android:layout_width="411dp"
+        android:layout_height="650dp"
+        android:layout_marginLeft="0dp"
+        android:background="@drawable/home_background2" />
+
+<!--   메뉴바 .. -->
+
+    <ImageView
+        android:layout_width="470dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="550dp"
+        android:src="@drawable/nav_bar2" />
+
+    <Button
+        android:id="@+id/btncamera_id"
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="592dp"
+        android:background="#00ff0000"
+        android:onClick = "movebutton"
+        android:drawableBottom="@drawable/camera_icon2" />
+
+    <Button
+        android:id="@+id/homeIcon"
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="592dp"
+        android:background="#00ff0000"
+        android:drawableBottom="@drawable/home_icon" />
+
+    <Button
+        android:id="@+id/myIcon"
+        android:layout_width="35dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="270dp"
+        android:layout_marginTop="592dp"
+        android:background="#00ff0000"
+        android:drawableBottom="@drawable/my_icon" />
+
+<!--    -->
+
+    <Button
+        android:id="@+id/game_Start"
+        android:layout_width="375dp"
+        android:layout_height="156dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="#00ff0000"
+        android:drawableBottom="@drawable/game_start" />
+
+    <Button
+        android:id="@+id/baskeIcon"
+        android:layout_width="140dp"
+        android:layout_height="155dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="180dp"
+        android:background="#00ff0000"
+        android:drawableBottom="@drawable/basket" />
+
+    <Button
+        android:id="@+id/bookIcon"
+        android:layout_width="145dp"
+        android:layout_height="155dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="180dp"
+        android:background="#00ff0000"
+        android:drawableBottom="@drawable/book" />
+
+
+</RelativeLayout>
