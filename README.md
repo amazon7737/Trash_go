@@ -5,3 +5,15 @@
   
 <img src = "https://user-images.githubusercontent.com/76634341/245063451-85f80cae-87e4-4c61-8ea7-5e73567c2f13.gif">
 
+```
+trash toss : unity
+
+app : android
+
+runtime : nodejs
+
+database : mysql
+
+
+
+```
