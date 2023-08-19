@@ -24,10 +24,11 @@ database : mysql
 
 <h1>담당 파트</h1>
 
-<h2>backEnd and Unity dev : 20191434 김강민</h2>
-<h2>frontEnd : 20191514 손민우</h2>
-<h2>project planning and document managing : 20191476 장우영</h2>
-
+```
+backEnd and Unity dev : 🙆‍♂️20191434 김강민
+frontEnd : 🙆‍♂️20191514 손민우
+project planning and document managing : 🙆‍♂️20191476 장우영
+```
 
 <h1>구현한 기능</h1>
 
