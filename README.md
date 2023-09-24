@@ -11,6 +11,9 @@
 
 ```
 
+<img width="440" alt="image" src="https://github.com/amazon7737/trash_go/assets/76634341/f83e5550-2f70-4e56-b6eb-ca9055e12003">
+
+
 
 <img src = "https://user-images.githubusercontent.com/76634341/245063434-373341c6-e9de-4e40-9303-e32cadf6466d.gif">
   
